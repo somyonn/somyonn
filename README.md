@@ -1,9 +1,9 @@
-## Profile
-젊어 고생은 사서도 하는 개발자
+## About Me ...
+🥰 젊어 고생은 사서도 하는 개발자 🥰
 
 ## Studying
-- 경희대학교 컴퓨터공학과 <sub>2021.03~</sub>
-- 구름톤 유니브 4기 프론트엔드 <sub>2025.03~</sub>
+- 🏛️ 경희대학교 컴퓨터공학과 <sub>2021.03~</sub>
+- ☁️ 구름톤 유니브 4기 프론트엔드 <sub>2025.03~</sub>
 
 <!--
 **somyonn/somyonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
