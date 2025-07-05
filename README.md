@@ -55,7 +55,7 @@
 
 ## Activities
 
-![somyonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyonn&show_icons=true&theme=right)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thaud0805)](https://solved.ac/thaud0805)
+![somyonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyonn&show_icons=true&)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thaud0805)](https://solved.ac/thaud0805)
 
 <!--
 **somyonn/somyonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
