@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Studying
+- Kyung Hee University, Computer Science & Engineering <sub>2021~</sub>
+
 <!--
 **somyonn/somyonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
