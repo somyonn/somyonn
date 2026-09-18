@@ -1,20 +1,23 @@
 ## About Me
-<b>🤖AI에게 굴복하지 않기 위해 매일 정진하는 휴먼🤦‍♀️</b> 
+<b>🤖AI에게 굴복하지 않기 위해 매일 정진🤦‍♀️</b> 
 
 ## Qualified
 ☕️TOEIC 800 <sub>25.08.10</sub> <br>
 🇰🇷한국사능력검정시험 1급 <sub>25.08.22</sub> <br>
-🗡️정보처리기사 <sub>26.06.12</sub> 
+🗡️정보처리기사 <sub>26.06.12</sub> <br>
+🗄️SQLD <sub>26.09.11</sub> 
 
 ## Experiences
-🏛️ 경희대학교 컴퓨터공학과 GPA 4.07/4.5 <sub>2021.03~</sub> <br>
+🏛️ 경희대학교 컴퓨터공학과 GPA 4.06/4.5 <sub>2021.03~</sub> <br>
 ☁️ 구름톤 유니브 4기 FE <sub>2025.03~2025.09</sub> <br>
+☁️ AWS Student Builders Group <sub>2026.07~</sub> <br>
+🔋 (주)레플러스 현장실습 <sub>2026.09~2026.12</sub> <br>
 ❓ What's next? 😉
 
 ## Awards
-🏆
+🎓 경희대학교 성적우수장학금 <sub>2025-2</sub>
 
-## Studing
+## Studying
 
 <table>
   <tr>
@@ -58,11 +61,16 @@
     </th>
     <th>https://github.com/somyonn/docker-k8s-practice</th>
   </tr>
+
+  <tr>
+    <th>AI / RAG</th>
+    <th>
+      <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    </th>
+    <th>https://github.com/somyonn/drag</th>
+  </tr>
 </table>
-
-## Activities
-
-![somyonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyonn&show_icons=true&)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thaud0805)](https://solved.ac/thaud0805)
 
 <!--
 **somyonn/somyonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
